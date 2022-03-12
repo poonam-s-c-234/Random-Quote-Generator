@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(14, 17, 17);
+}
+#container{
+    background-color: rgb(226, 27, 120);
+    border: 5px solid white;
+    height: 275px;
+    width: 750px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#btn{
+    margin: 50px auto;
+    height: 50px;
+    width: 250px;
+    background-color: cadetblue;
+}
+
+#output{
+    margin: 25px auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
